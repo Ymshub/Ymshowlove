@@ -1,0 +1,8 @@
+# 规则名称:DeepSeek
+
+payload:
+
+- PROCESS-NAME,com.deepseek.chat
+- DOMAIN-SUFFIX,deepseek.com
+- DOMAIN-SUFFIX,volces.com
+- DOMAIN-SUFFIX,portal101.cn

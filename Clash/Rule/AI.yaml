@@ -29,6 +29,12 @@ payload:
   - DOMAIN,sydney.bing.com
   - DOMAIN,www.bing.com
 
+  # DeepSeek
+  - PROCESS-NAME,com.deepseek.chat
+  - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,volces.com
+  - DOMAIN-SUFFIX,portal101.cn
+
   # Gemini
   - DOMAIN,bard.google.com
   - DOMAIN,gemini.google.com
